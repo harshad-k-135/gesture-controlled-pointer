@@ -19,4 +19,24 @@ To run this project, you will need to have Python installed along with the neces
    ```bash
    git clone https://github.com/yourusername/gesture-controlled-mouse-pointer.git
    cd gesture-controlled-mouse-pointer
-2. Run the Jupyter Notebook on your machine. 
+   ```
+2. Install the required libraries
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+To start the gesture controlled mouse pointer, run the below file.
+   ```bash
+   python main.py
+   ```
+## Dependancies
+- Python 3
+- OpenCV
+- MediaPipe
+
+## Contributions
+Contributions are welcome! Please feel free to submit a pull request.
+
+## License
+This project is licensed under the MIT License.
