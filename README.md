@@ -28,7 +28,7 @@ To run this project, you will need to have Python installed along with the neces
 ## Usage
 To start the gesture controlled mouse pointer, run the below file.
    ```bash
-   python main.py
+   jupyter nbconvert --to notebook --execute example_notebook.ipynb --output output_notebook.ipynb
    ```
 ## Dependancies
 - Python 3
